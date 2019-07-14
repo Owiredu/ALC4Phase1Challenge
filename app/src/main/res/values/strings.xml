@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_txt">Welcome to ALC 4.0</string>
+    <string name="about_btn">ABOUT ALC</string>
+    <string name="profile_btn">MY PROFILE</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="my_name">Owiredu Nana Kofi</string>
+    <string name="my_track">Android</string>
+    <string name="my_country">Ghana</string>
+    <string name="my_email">nanakofiowiredu@gmail.com</string>
+    <string name="my_phone_number">+233206546543</string>
+    <string name="my_slack_username">Nana K.</string>
+</resources>
